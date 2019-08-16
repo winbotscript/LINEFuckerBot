@@ -7,15 +7,7 @@ So easy.
 
 ```bash
 pkg install python3 git
-
 git clone https://github.com/danrfq/LINEFuckerBot
-
 cd LINEFuckerBot
 python3 fucker.py
-
-
-
-
-
-
 ```
